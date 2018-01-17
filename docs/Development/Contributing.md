@@ -1,10 +1,10 @@
 # Contributing
 
-VIC is an open source research model.  All development activity is coordinated via the [VIC github page](https://github.com/UW-Hydro/VIC), where you can also find all archived, current, beta, and development versions of the model.
+VIC is an [open source](open-source-philosophy.md) research model.  All development activity is coordinated via the [VIC github page](https://github.com/UW-Hydro/VIC), where you can also find all archived, current, beta, and development versions of the model.
 
 ## Features Under Development
 
-There are currently a number of active development projects working on VIC. To see which features are slatted for future release, take a look at the issues in our [development milestones page on GitHub](https://github.com/UW-Hydro/VIC/milestones).
+There are currently a number of active development projects working on VIC. To see which features are slated for future release, take a look at the issues in our [development milestones page on GitHub](https://github.com/UW-Hydro/VIC/milestones).
 
 ## Development and Collaboration
 
